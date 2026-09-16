@@ -7,6 +7,7 @@ C'est une affiche de concert sur 5 rappeur et compositeur dont j'ai trouver. Pou
 ## sources
 https://wallpaperaccess.com/4k-ultra-hd-sunset ( coucher de soleil)
 https://unsplash.com/fr/photos/homme-levant-la-main-gauche-avec-un-microphone-bl1_IhZL6Pc (l'homme en haut à droite)
-https://media.gettyimages.com/id/1129084766/photo/rapper-in-recording-studio.jpg?s=612x612&w=gi&k=20&c=y-f96WJ7pNigIl6slw2txwK2ioGndmGcC1XIpxDiojA= (l'homme à haut à gauche)
-https://www.pexels.com/fr-fr/photo/rappeur-style-en-lunettes-de-soleil-avec-microphone-33676168/ (l'homme en bas à droite)
-https://static.vecteezy.com/system/resources/previews/056/103/384/non_2x/a-man-in-a-black-jacket-and-sunglasses-sitting-on-a-smoke-cloud-free-photo.jpg (l'homme au milieu)
+https://www.istockphoto.com/id/foto/rapper-di-studio-rekaman-gm1129084766-298133338 (l'homme en haut à gauche)
+https://www.pexels.com/fr-fr/photo/rappeur-style-en-lunettes-de-soleil-avec-microphone-33676168/ (l'homme en bas à gauche)
+https://static.vecteezy.com/system/resources/previews/056/103/378/non_2x/a-man-in-a-leather-jacket-and-sunglasses-is-standing-in-front-of-neon-lights-free-photo.jpg (l'homme au milieu)
+https://fr.vecteezy.com/photo/23115086-noir-rappeur-musicien-portrait-de-une-jeune-noir-masculin-afro-americain-contre-une-fonce-contexte-generatif-ai (L'homme en bas à droite)
