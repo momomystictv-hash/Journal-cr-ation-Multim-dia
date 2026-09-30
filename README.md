@@ -18,4 +18,12 @@ J'ai appris à utiliser les différentes fonctionnalités d'animation sur krita 
 **Solutions**: POur pouvoir dessiner après avoir effacer quoi que ce soit, il faut appuyer sur une autre couleur puis sur la couleur que tu veux pour que l'ordinateur se "réinitialise" et te laisse dessiner sur ton calque.
 ### Inspirations
 La balle qui rebondit sur place — animation de Styxcolor
+## Semaine 6 (2026-09-30)
+### Contexte
+Comment exporter de la video dans krita ou un autre site, mais pricipalement krita avec FFmpeg (logiciel sans interface graphique).
+### Ce que j'ai appris
 
+### Capture d'écran
+
+### Problèmes et solutions
+### Inspiration
