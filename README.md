@@ -11,3 +11,10 @@ On est rentrer dans un nouveau sujet qui est l'animation ou la création d'une v
 ### Ce que j'ai appris
 J'ai appris à utiliser les différentes fonctionnalités d'animation sur krita et un peu sur les autres sites pour me familiariser avant de faire ma version finale. Par exemple, j'ai appris comment commencer la video, rajouter des pages, empilé des photos dans les pages suivantes de ma vidéo à a place de recommencer mon image à zéro, de distinguer les différentes fonctions pour chacun des sites et de bien placer mes images pour avoir diifférents tempo de vitesse et de jouer un peu avec lors de mon montage vidéo. En plus, j'ai appris à faire rebondir une balle en montage vidéo comme indiquer dans l'exercice 1 du groupe teams.
 ### Capture d'écran
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/b1c71eb5-98cf-4a30-bde3-63f3a9a059a4" />
+### Problèmes et Solutions
+**Problèmes**: je n'arrivais pas à dessiner sur mon plan quand je changais pour effacer mon image.
+**Solutions**: POur pouvoir dessiner après avoir effacer quoi que ce soit, il faut appuyer sur une autre couleur puis sur la couleur que tu veux pour que l'ordinateur se "réinitialise" et te laisse dessiner sur ton calque.
+### Inspiration
+La balle qui rebondit sur place — animation de Styxcolor
+
