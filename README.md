@@ -27,6 +27,8 @@ J'ai appris à faire une vidéo en continu avec des bonhommes allumettes. j'ai a
 
 ### Problèmes et solutions
 **Problèmes** : J'avais de la difficulter à savoir si le prochain dessin que je faisais pour mon sketch allais faire la bonne action que je voulais en suite.
+
 **Solutions** : pour savoir si mes images sont bien chronologiquement, en bas à droite je peux appuyer sur un bouton qui me laisse voir mes dessins ou mes actions d'avant et après sur une nouvelle page. Cela m'a aider à savoir exactement ce que je devais faire comme action sur les pages.
 ### Inspiration
+
 J'ai essayer de m'inspirer des videos sketch sur tiktok et youtube shorts avec les bonhommes allumettes qui bougaient.
