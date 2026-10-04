@@ -20,10 +20,13 @@ J'ai appris à utiliser les différentes fonctionnalités d'animation sur krita 
 La balle qui rebondit sur place — animation de Styxcolor
 ## Semaine 6 (2026-09-30)
 ### Contexte
-Comment exporter de la video dans krita ou un autre site, mais pricipalement krita avec FFmpeg (logiciel sans interface graphique).
+Comment exporter de la video dans krita ou un autre site, mais pricipalement krita avec FFmpeg (logiciel sans interface graphique). Aussi, comment faire une video en mouvement grâce à différent exercise et différent types de vidéo continu.
 ### Ce que j'ai appris
-
+J'ai appris à faire une vidéo en continu avec des bonhommes allumettes. j'ai appris à ajuster les mouvements de ma scène pour qu'il soit le plus fluide possible tout en étant pas trop compliquer. J'ai aussi appris à voir les actions précédentes que j'ai faites pour pas me perdre dans mes actions et pour être plus précis quand je fais mon mini film.
 ### Capture d'écran
 
 ### Problèmes et solutions
+**Problèmes** : J'avais de la difficulter à savoir si le prochain dessin que je faisais pour mon sketch allais faire la bonne action que je voulais en suite.
+**Solutions** : pour savoir si mes images sont bien chronologiquement, en bas à droite je peux appuyer sur un bouton qui me laisse voir mes dessins ou mes actions d'avant et après sur une nouvelle page. Cela m'a aider à savoir exactement ce que je devais faire comme action sur les pages.
 ### Inspiration
+J'ai essayer de m'inspirer des videos sketch sur tiktok et youtube shorts avec les bonhommes allumettes qui bougaient.
