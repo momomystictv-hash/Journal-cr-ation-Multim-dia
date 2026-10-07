@@ -24,6 +24,7 @@ Comment exporter de la video dans krita ou un autre site, mais pricipalement kri
 ### Ce que j'ai appris
 J'ai appris à faire une vidéo en continu avec des bonhommes allumettes. j'ai appris à ajuster les mouvements de ma scène pour qu'il soit le plus fluide possible tout en étant pas trop compliquer. J'ai aussi appris à voir les actions précédentes que j'ai faites pour pas me perdre dans mes actions et pour être plus précis quand je fais mon mini film.
 ### Capture d'écran
+<img width="1980" height="1080" alt="exercise" src="https://github.com/user-attachments/assets/68ae9612-0d4a-4cbb-8d2b-94d6f5a45d8d" />
 
 ### Problèmes et solutions
 **Problèmes** : J'avais de la difficulter à savoir si le prochain dessin que je faisais pour mon sketch allais faire la bonne action que je voulais en suite.
