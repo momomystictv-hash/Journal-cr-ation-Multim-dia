@@ -15,7 +15,8 @@ J'ai appris à utiliser les différentes fonctionnalités d'animation sur krita 
 
 ### Problèmes et Solutions
 **Problèmes**: je n'arrivais pas à dessiner sur mon plan quand je changais pour effacer mon image.
-**Solutions**: POur pouvoir dessiner après avoir effacer quoi que ce soit, il faut appuyer sur une autre couleur puis sur la couleur que tu veux pour que l'ordinateur se "réinitialise" et te laisse dessiner sur ton calque.
+
+**Solutions**: Pour pouvoir dessiner après avoir effacer quoi que ce soit, il faut appuyer sur une autre couleur puis sur la couleur que tu veux pour que l'ordinateur se "réinitialise" et te laisse dessiner sur ton calque.
 ### Inspirations
 La balle qui rebondit sur place — animation de Styxcolor
 ## Semaine 6 (2026-09-30)
@@ -39,7 +40,7 @@ J'ai essayer de m'inspirer des videos sketch sur tiktok et youtube shorts avec l
 ### Contexte
 On a reçu de l'information à propos de notre deuxième TPS qui sera une sécance vidéo de 15 à 30 secondes sur ce qu'on veut. La péeriode à été dédiée pour faire un "brainstorming" des idées qu'on veut faire pour la réalisation de notre TP et pour commencer à faire les premiers étapes si on était assez avancer.
 
-### Ce que j'Ai appris
+### Ce que j'ai appris
 Durant la période, j'ai essayer de visualiser et de faire quelque sketch sur comment j'allais faire l'idée que j'avais en tête. j'ai appris à réaliser différent type de fond en faisant des essais et erreurs, à bien dessiner sur différents canvas pour me donner une idée à comment je pourrais faire fonctionner mon idée. J'ai aussi essayer d'apprendre les quelques exercises qui me seront utiles lors de mon projet. Par exemple, les changements d'expressions, marcher, courir, tourner la tête. 
 
 ### Capture d'écran
