@@ -33,3 +33,21 @@ J'ai appris à faire une vidéo en continu avec des bonhommes allumettes. j'ai a
 ### Inspiration
 
 J'ai essayer de m'inspirer des videos sketch sur tiktok et youtube shorts avec les bonhommes allumettes qui bougaient.
+
+## Semaine 7 (2026-09-30)
+
+### Contexte
+On a reçu de l'information à propos de notre deuxième TPS qui sera une sécance vidéo de 15 à 30 secondes sur ce qu'on veut. La péeriode à été dédiée pour faire un "brainstorming" des idées qu'on veut faire pour la réalisation de notre TP et pour commencer à faire les premiers étapes si on était assez avancer.
+
+### Ce que j'Ai appris
+Durant la période, j'ai essayer de visualiser et de faire quelque sketch sur comment j'allais faire l'idée que j'avais en tête. j'ai appris à réaliser différent type de fond en faisant des essais et erreurs, à bien dessiner sur différents canvas pour me donner une idée à comment je pourrais faire fonctionner mon idée. J'ai aussi essayer d'apprendre les quelques exercises qui me seront utiles lors de mon projet. Par exemple, les changements d'expressions, marcher, courir, tourner la tête. 
+
+### Capture d'écran
+
+### Problèmes et Solutions
+**Problèmes**: Mon principal problème c'était que j'arrivais pas à me donner une idée concrète à comment j'allais réaliser mon idée etr le mettre en marche.
+
+**Solutions**: J'ai décider d'aller sur l'internet (TikTok) pour m'inspirer de contenue qui se liais le plus avec mon idée pour me donner une meilleure idée à comment je pouvais structurer et prganiser mon court métrage
+
+### Inspirations
+Dans tiktok, il y avait une video de "stickman" qui se combattait qui ma réellement aider à mieux comprendre comment j'allais faire mon film, le nom du tiktok s'appelle (Combat Gods)
