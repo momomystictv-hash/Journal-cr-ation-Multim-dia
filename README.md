@@ -52,3 +52,21 @@ Durant la période, j'ai essayer de visualiser et de faire quelque sketch sur co
 
 ### Inspirations
 Dans tiktok, il y avait une video de "stickman" qui se combattait qui ma réellement aider à mieux comprendre comment j'allais faire mon film, le nom du tiktok s'appelle (Combat Gods)
+
+## Semaine 8 (2026-10-21)
+
+### Contexte
+Durant ce cour on a reçu de l'information à propos de notre projet ou examen de fin de session. De plus on a pus continuer à réaliser notre TP2 qui doit être rendu pour le mercredi de la semaine prochaine.
+
+### Ce que j'ai appris
+J'ai appris des nouvelle fonctionnalité sur krita qui m'aideront durant le montage de mon video. Par exmple, j'ai appris à faire tourner mon image, à créer des groupes d'images et à revoir les actions ou les dessins que j'ai fait sur une planche précédente ou qui suit.
+
+### Capture d'écran
+
+### Problèmes et Solutions
+**Problèmes**: je n'arivais toujours pas a savoir comment j'allais faire pour réaliser mon film de combat qui était beaucoup plus difficile que prêvu.
+
+**Solutions**: J'ai décidé de changer mon idée un peu et à la place de faire un court métrage sur le combat, ce sera sur un match de ping pong.
+
+### Inspirations
+Je me suis inspirer des animations sur tiktok sur le ping pong et les combats pour réellement savoir comment faire pour les mouvements, les détaiuls dee fonds et le reste.
