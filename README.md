@@ -70,3 +70,21 @@ J'ai appris des nouvelle fonctionnalité sur krita qui m'aideront durant le mont
 
 ### Inspirations
 Je me suis inspirer des animations sur tiktok sur le ping pong et les combats pour réellement savoir comment faire pour les mouvements, les détaiuls dee fonds et le reste.
+
+## Semaine 9 (2026-10-28)
+
+### Contexte
+C'était la remise du TP2, on a finaliser les petits détails qui restait et on a démontré notre travail devant la classe.
+
+### Capture d'écran
+
+## Semaine 10 (2026-11-04)
+
+### Contexte
+Durant ce cour, on a appris à utiliser le son dans nos vidéos qu'on a fait au TP2. De plus, on nous a annoncer quoi faire pour le TP3 qui sera dû dans 3 semaines. Soit on met du son sur notre présentation du TP2 ou on faisait  une bibliothèque ou une vidéo de son sans nécessairement avoir des images.
+
+### Ce que j'ai appris
+
+### Capture d'écran
+<img width="3839" height="2007" alt="image" src="https://github.com/user-attachments/assets/3e631292-81c1-498b-950b-fb5eedafb738" />
+
