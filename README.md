@@ -84,7 +84,12 @@ C'était la remise du TP2, on a finaliser les petits détails qui restait et on 
 Durant ce cour, on a appris à utiliser le son dans nos vidéos qu'on a fait au TP2. De plus, on nous a annoncer quoi faire pour le TP3 qui sera dû dans 3 semaines. Soit on met du son sur notre présentation du TP2 ou on faisait  une bibliothèque ou une vidéo de son sans nécessairement avoir des images.
 
 ### Ce que j'ai appris
-
+J'ai appris à utiliser et à mettre du son sur ma vidéo de façons à me familirialiser pour quand je complèterai réellement mon TP3. Aussi appris à importer des sons d'une applications vers mon montage vidéo.
 ### Capture d'écran
 <img width="3839" height="2007" alt="image" src="https://github.com/user-attachments/assets/3e631292-81c1-498b-950b-fb5eedafb738" />
+
+### Problèmes et Solutions
+**Prblèmes**: Le seul problème que j'ai rencontré est que je pensais trop à des types de sons à mettre que sa je me mélangait dans ce que je voulais faire
+
+**Solutions**: Je m suis plus controler et décidé de faire plus simple à la place de trop faire et détruire ou bafouiller mon projet de base ou pire encore perdre du temps je pour rechanger les sons parce que je suis indécis.
 
