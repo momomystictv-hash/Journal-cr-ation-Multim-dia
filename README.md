@@ -76,15 +76,13 @@ Je me suis inspirer des animations sur tiktok sur le ping pong et les combats po
 ### Contexte
 C'était la remise du TP2, on a finaliser les petits détails qui restait et on a démontré notre travail devant la classe.
 
-### Capture d'écran
-
 ## Semaine 10 (2026-11-04)
 
 ### Contexte
 Durant ce cour, on a appris à utiliser le son dans nos vidéos qu'on a fait au TP2. De plus, on nous a annoncer quoi faire pour le TP3 qui sera dû dans 3 semaines. Soit on met du son sur notre présentation du TP2 ou on faisait  une bibliothèque ou une vidéo de son sans nécessairement avoir des images.
 
 ### Ce que j'ai appris
-J'ai appris à utiliser et à mettre du son sur ma vidéo de façons à me familirialiser pour quand je complèterai réellement mon TP3. Aussi appris à importer des sons d'une applications vers mon montage vidéo.
+J'ai appris à utiliser et à mettre du son sur ma vidéo de façons à me famillirialiser pour quand je complèterai réellement mon TP3. J'ai aussi appris à mettre des sons d'un site dans ma vidéo. Ce site nommé (Myinstants) me donnait les sons que je voulais pour faire mon TP3. Tout les sons que j'ai utilisé durant ma vidéo vient de ce site. 
 ### Capture d'écran
 <img width="3839" height="2007" alt="image" src="https://github.com/user-attachments/assets/3e631292-81c1-498b-950b-fb5eedafb738" />
 
@@ -92,4 +90,31 @@ J'ai appris à utiliser et à mettre du son sur ma vidéo de façons à me famil
 **Prblèmes**: Le seul problème que j'ai rencontré est que je pensais trop à des types de sons à mettre que sa je me mélangait dans ce que je voulais faire
 
 **Solutions**: Je m suis plus controler et décidé de faire plus simple à la place de trop faire et détruire ou bafouiller mon projet de base ou pire encore perdre du temps je pour rechanger les sons parce que je suis indécis.
+
+## Semaine 11 (2026-11-11)
+
+### Contexte
+Durant le cour on a avancé notre TP3 en ajoutant et ou configurant les sons. C'étais aussi une période pour finaliser les petits détails de notre vidéo.
+
+### Ce que j'ai apris
+J'ai appris à peaufiner et à améliorer ma vidéo en collants mes sons un peu plus pour que sa soit un peu plus fluide et en les déplaçant pour que mes sons soit plus synchroniser avec ma vidéo. J'ai aussi appris comment dézoomer ma section ou je mets mes vidéos et mes sons pour être de plus en plus précis quand  je fais des changements de son et des découpage. De plus, j'ai aussi décider d'enlever et de remplacer certains sons pour d'autre pour ne pas trop me compliquer la vie. En plus, j'ai aussi appris comment faire pour rajouter plus de son que ma limite pour me donner une meilleure idée de ce que je veux en écoutant plusieurs en même temps sans avoir à changer d'onglets ou de site.
+
+## Semaine 12 (2026-11-18)
+
+### Contexte
+Ce cour, c'était la finalisation de notre TP3 et la remise de celui-ci. On devait finir notre remise avant la fin du cour et le rendre npotre journal.
+
+### Ce que j'ai appris
+
+Je n'est rien appris de particulier appart l'effet du fondu que j'ai utilisé pour régler mon seul problème, le son du clic à la fin de mes sons. Appart sa, je n'avais pas d'autre choses à apprendre car c'est la seule chose qui me restait avant de finaliser mon projet.
+
+### Capture
+<img width="3838" height="1806" alt="image" src="https://github.com/user-attachments/assets/1b5deab7-8d0c-4c33-a546-a258cdbab429" />
+
+### Problèmes et solutions
+**Problèmes**: mon plus gros problèmes est qu'à la fin de plusieurs de mes sons, quand il y a une transition entre deux ou trois sons, c'était pas assez fluide et beau à attendre à l'oreille, c'était trop dur.
+
+**Solutions**: J'ai fais des fondues à chaque place ou le sons était pas assez lucide pour mieux le peaufiner et l'améliorer aux niveau de l'oreille
+
+
 
